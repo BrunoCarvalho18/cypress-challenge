@@ -1,3 +1,2 @@
-# metyis-challenge
-Metyis Challenge
+# Metyis Challenge
 
