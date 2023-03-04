@@ -1,5 +1,8 @@
 # Metyis Challenge
 
+## Run Code
+
+npx cypress run --spec cypress/e2e/gui/login.cy.js
 
 ## CI/CD Pipeline
 
