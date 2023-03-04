@@ -2,6 +2,12 @@
   About Automation 🚀 
 </h1>
 
+## :blush: **Tecnologies**
+
+- Javascript
+- Cypress
+- Maven
+
 
 ## Run Code
 
