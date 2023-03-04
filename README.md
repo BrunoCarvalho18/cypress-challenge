@@ -2,8 +2,9 @@
 
 ## Run Code
 
-1. Download de project
-2. Terminal/CLI command npx cypress run --spec cypress/e2e/gui/login.cy.js
+1. Download de project 
+2. Git clone url
+3. Run in command line npx cypress run --spec cypress/e2e/gui/login.cy.js
 
 ## CI/CD Pipeline
 
