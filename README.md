@@ -8,7 +8,7 @@
 - Cypress
 
 
-## Run Code
+## :octocat: Run Code
 
 1. Download de project 
 2. git clone https://github.com/BrunoCarvalho18/metyis-challenge.git
