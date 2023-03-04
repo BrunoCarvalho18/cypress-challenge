@@ -25,4 +25,4 @@ describe('Login Test Suite', () => {
     cy.wait(500)
     cy.get("p[class='MuiFormHelperText-root MuiFormHelperText-contained Mui-error MuiFormHelperText-filled']").contains('Sorry, dit is geen geldig e-mailadres')
  });
-  })
+})
