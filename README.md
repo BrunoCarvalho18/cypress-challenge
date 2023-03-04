@@ -14,7 +14,7 @@
 2. git clone https://github.com/BrunoCarvalho18/metyis-challenge.git
 3. Run in command line npx cypress run --spec cypress/e2e/gui/login.cy.js
 
-## CI/CD Pipeline
+## :star:  CI/CD Pipeline
 
 1. Github Actions
 
