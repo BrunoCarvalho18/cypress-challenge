@@ -6,7 +6,6 @@
 
 - Javascript
 - Cypress
-- Maven
 
 
 ## Run Code
