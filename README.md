@@ -12,6 +12,10 @@
 - Javascript
 - Cypress
 
+## 🔤 **Design Pattern**
+
+- App actions
+
 
 ## :octocat: Run Code
 
