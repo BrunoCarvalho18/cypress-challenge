@@ -1,5 +1,5 @@
 <h1 align="center"> 
-  Metyis Challenge 
+  Cypress Challenge 
 </h1>
 
 
